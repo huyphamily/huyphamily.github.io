@@ -31,6 +31,10 @@
   margin-bottom: 20px;
 }
 
+.bottom0 {
+  margin-bottom: 0;
+}
+
 .card-description {
   font-size: 0.8em;
   text-align: center;
