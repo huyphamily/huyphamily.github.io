@@ -56,8 +56,11 @@
   text-align: center;
 }
 
+.bullet-point li {
+  display: flex;
+}
+
 .bullet-point li span {
-  display: inline-flex;
   vertical-align: middle;
 }
 
