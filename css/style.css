@@ -56,12 +56,17 @@
   text-align: center;
 }
 
+.bullet-point {
+  list-style-type: initial;
+  margin-left: 20px;
+}
+
 .bullet-point li {
-  display: flex;
+  list-style-type: disc;
 }
 
 .bullet-point li span {
-  vertical-align: middle;
+  /*vertical-align: middle;*/
 }
 
 .role-icon {
